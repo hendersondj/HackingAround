@@ -10,7 +10,7 @@ namespace DataStructures
     {
         static void Main(string[] args)
         {
-            string thing = "asdfasdf";
+            string thing = "asdfafdf";
         }
     }
 }
